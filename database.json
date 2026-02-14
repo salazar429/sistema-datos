@@ -1,12 +1,6 @@
 {
   "categorias": [
     {
-      "id": "cat_6",
-      "nombre": "Otros",
-      "descripcion": "Productos varios",
-      "activa": true
-    },
-    {
       "id": "cat_1771051075095",
       "nombre": "Confituras",
       "descripcion": "",
