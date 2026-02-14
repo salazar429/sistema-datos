@@ -35,7 +35,7 @@
       "nombre": "Carne de cerdo",
       "categoria": "cat_1771051085065",
       "precio": 480,
-      "stock": 10,
+      "stock": 7,
       "minStock": 5,
       "status": "activo"
     }
