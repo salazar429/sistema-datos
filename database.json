@@ -53,16 +53,6 @@
       "tienda": "Tienda General"
     }
   ],
-  "productos": [
-    {
-      "id": "p_1",
-      "nombre": "PRODUCTO DE PRUEBA",
-      "categoria": "cat_1",
-      "precio": 99.99,
-      "stock": 100,
-      "minStock": 10,
-      "status": "activo"
-    }
-  ],
+  "productos": [],
   "ventas": []
 }
