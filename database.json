@@ -1,12 +1,6 @@
 {
   "categorias": [
     {
-      "id": "cat_1",
-      "nombre": "es este el problema",
-      "descripcion": "Prendas de vestir",
-      "activa": true
-    },
-    {
       "id": "cat_2",
       "nombre": "Calzado",
       "descripcion": "Zapatos y zapatillas",
