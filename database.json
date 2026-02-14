@@ -43,7 +43,16 @@
       "activa": true
     }
   ],
-  "vendedoras": [],
+  "vendedoras": [
+    {
+      "id": "v_1771051018284",
+      "nombre": "Grisel",
+      "usuario": "Grisel",
+      "password": "123456",
+      "status": "activa",
+      "tienda": "Tienda General"
+    }
+  ],
   "productos": [
     {
       "id": "p_1",
