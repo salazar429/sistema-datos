@@ -1,12 +1,6 @@
 {
   "categorias": [
     {
-      "id": "cat_2",
-      "nombre": "Calzado",
-      "descripcion": "Zapatos y zapatillas",
-      "activa": true
-    },
-    {
       "id": "cat_3",
       "nombre": "Accesorios",
       "descripcion": "Bolsos, carteras, joyas",
