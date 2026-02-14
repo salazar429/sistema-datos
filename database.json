@@ -1,12 +1,6 @@
 {
   "categorias": [
     {
-      "id": "cat_3",
-      "nombre": "Accesorios",
-      "descripcion": "Bolsos, carteras, joyas",
-      "activa": true
-    },
-    {
       "id": "cat_4",
       "nombre": "Electrónica",
       "descripcion": "Dispositivos electrónicos",
