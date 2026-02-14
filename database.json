@@ -11,6 +11,12 @@
       "nombre": "Confituras",
       "descripcion": "",
       "activa": true
+    },
+    {
+      "id": "cat_1771051085065",
+      "nombre": "Cárnicos",
+      "descripcion": "",
+      "activa": true
     }
   ],
   "vendedoras": [
