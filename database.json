@@ -45,14 +45,6 @@
   ],
   "vendedoras": [
     {
-      "id": "v_1",
-      "nombre": "María González",
-      "usuario": "maria_g",
-      "password": "123456",
-      "status": "activa",
-      "tienda": "Tienda Centro"
-    },
-    {
       "id": "v_2",
       "nombre": "Ana Rodríguez",
       "usuario": "ana_r",
