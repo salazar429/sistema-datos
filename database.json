@@ -5,12 +5,6 @@
       "nombre": "Otros",
       "descripcion": "Productos varios",
       "activa": true
-    },
-    {
-      "id": "cat_1771050920263",
-      "nombre": "TOKEN_CORREGIDO",
-      "descripcion": "Probando después de corregir token",
-      "activa": true
     }
   ],
   "vendedoras": [
