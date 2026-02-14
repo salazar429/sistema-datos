@@ -37,6 +37,16 @@
       "tienda": "Tienda General"
     }
   ],
-  "productos": [],
+  "productos": [
+    {
+      "id": "p_1771097129443",
+      "nombre": "A ver ahora??",
+      "categoria": "cat_1771051075095",
+      "precio": 222,
+      "stock": 22,
+      "minStock": 5,
+      "status": "activo"
+    }
+  ],
   "ventas": []
 }
