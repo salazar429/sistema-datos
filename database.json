@@ -29,6 +29,16 @@
       "tienda": "Tienda General"
     }
   ],
-  "productos": [],
+  "productos": [
+    {
+      "id": "p_1771051115035",
+      "nombre": "Carne de cerdo",
+      "categoria": "cat_1771051085065",
+      "precio": 480,
+      "stock": 10,
+      "minStock": 5,
+      "status": "activo"
+    }
+  ],
   "ventas": []
 }
