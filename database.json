@@ -27,6 +27,14 @@
       "password": "123456",
       "status": "activa",
       "tienda": "Tienda General"
+    },
+    {
+      "id": "v_1771093221384",
+      "nombre": "Kendry",
+      "usuario": "Kendry",
+      "password": "123456",
+      "status": "activa",
+      "tienda": "Tienda General"
     }
   ],
   "productos": [
