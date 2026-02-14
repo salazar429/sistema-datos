@@ -39,15 +39,6 @@
   ],
   "productos": [
     {
-      "id": "p_1771051115035",
-      "nombre": "Carne de cerdo",
-      "categoria": "cat_1771051085065",
-      "precio": 480,
-      "stock": 7,
-      "minStock": 5,
-      "status": "activo"
-    },
-    {
       "id": "p_1771095228930",
       "nombre": "Todo bien",
       "categoria": "cat_1771052463134",
