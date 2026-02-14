@@ -17,6 +17,12 @@
       "nombre": "Cárnicos",
       "descripcion": "",
       "activa": true
+    },
+    {
+      "id": "cat_1771052463134",
+      "nombre": "Pastas",
+      "descripcion": "",
+      "activa": true
     }
   ],
   "vendedoras": [
