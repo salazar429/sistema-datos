@@ -1,0 +1,18 @@
+{
+  "categorias": [
+    { "id": "cat_1", "nombre": "Ropa", "descripcion": "Prendas de vestir", "activa": true },
+    { "id": "cat_2", "nombre": "Calzado", "descripcion": "Zapatos y zapatillas", "activa": true },
+    { "id": "cat_3", "nombre": "Accesorios", "descripcion": "Bolsos, carteras, joyas", "activa": true },
+    { "id": "cat_4", "nombre": "Electrónica", "descripcion": "Dispositivos electrónicos", "activa": true },
+    { "id": "cat_5", "nombre": "Hogar", "descripcion": "Artículos para el hogar", "activa": true },
+    { "id": "cat_6", "nombre": "Otros", "descripcion": "Productos varios", "activa": true }
+  ],
+  "vendedoras": [
+    { "id": "v_1", "nombre": "María González", "usuario": "maria_g", "password": "123456", "status": "activa", "tienda": "Tienda Centro" },
+    { "id": "v_2", "nombre": "Ana Rodríguez", "usuario": "ana_r", "password": "123456", "status": "activa", "tienda": "Tienda Norte" }
+  ],
+  "productos": [
+    { "id": "p_1", "nombre": "PRODUCTO DE PRUEBA", "categoria": "cat_1", "precio": 99.99, "stock": 100, "minStock": 10, "status": "activo" }
+  ],
+  "ventas": []
+}
