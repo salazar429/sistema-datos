@@ -1,6 +1,6 @@
 {
   "categorias": [
-    { "id": "cat_1", "nombre": "Ropa", "descripcion": "Prendas de vestir", "activa": true },
+    { "id": "cat_1", "nombre": "es este el problema", "descripcion": "Prendas de vestir", "activa": true },
     { "id": "cat_2", "nombre": "Calzado", "descripcion": "Zapatos y zapatillas", "activa": true },
     { "id": "cat_3", "nombre": "Accesorios", "descripcion": "Bolsos, carteras, joyas", "activa": true },
     { "id": "cat_4", "nombre": "Electrónica", "descripcion": "Dispositivos electrónicos", "activa": true },
