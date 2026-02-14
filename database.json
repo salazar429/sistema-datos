@@ -43,16 +43,7 @@
       "activa": true
     }
   ],
-  "vendedoras": [
-    {
-      "id": "v_2",
-      "nombre": "Ana Rodríguez",
-      "usuario": "ana_r",
-      "password": "123456",
-      "status": "activa",
-      "tienda": "Tienda Norte"
-    }
-  ],
+  "vendedoras": [],
   "productos": [
     {
       "id": "p_1",
