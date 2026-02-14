@@ -37,16 +37,6 @@
       "tienda": "Tienda General"
     }
   ],
-  "productos": [
-    {
-      "id": "p_1771095228930",
-      "nombre": "Todo bien",
-      "categoria": "cat_1771052463134",
-      "precio": 222,
-      "stock": 222,
-      "minStock": 5,
-      "status": "activo"
-    }
-  ],
+  "productos": [],
   "ventas": []
 }
