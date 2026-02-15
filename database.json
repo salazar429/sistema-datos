@@ -37,6 +37,16 @@
       "tienda": "Tienda General"
     }
   ],
-  "productos": [],
+  "productos": [
+    {
+      "id": "p_1771164660443",
+      "nombre": "Q pasaaaaa",
+      "categoria": "cat_1771051085065",
+      "precio": 123,
+      "stock": 123,
+      "minStock": 5,
+      "status": "activo"
+    }
+  ],
   "ventas": []
 }
