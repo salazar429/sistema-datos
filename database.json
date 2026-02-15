@@ -39,15 +39,6 @@
   ],
   "productos": [
     {
-      "id": "p_1771164660443",
-      "nombre": "Q pasaaaaa",
-      "categoria": "cat_1771051085065",
-      "precio": 123,
-      "stock": 106,
-      "minStock": 5,
-      "status": "activo"
-    },
-    {
       "id": "p_1771164694999",
       "nombre": "Q fue eso?",
       "categoria": "cat_1771052463134",
