@@ -79,6 +79,15 @@
       "stock": 482,
       "minStock": 5,
       "status": "activo"
+    },
+    {
+      "id": "p_1771175101181",
+      "nombre": "Funciona??",
+      "categoria": "cat_1771052463134",
+      "precio": 123,
+      "stock": 5,
+      "minStock": 5,
+      "status": "bajo stock"
     }
   ],
   "ventas": []
