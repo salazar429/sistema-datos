@@ -1,22 +1,5 @@
 [
   {
-    "id": "rep_1771095292191",
-    "titulo": "Reporte de ventas - 2026-02-14",
-    "fecha": "2026-02-14T18:54:52.191Z",
-    "fechaReporte": "2026-02-14",
-    "vendedora": "Grisel",
-    "vendedoraId": "v_1771051018284",
-    "tienda": "Tienda General",
-    "resumen": {
-      "ventasCompletadas": 0,
-      "totalCompletado": 0,
-      "ventasPendientes": 0,
-      "totalPendiente": 0
-    },
-    "ventas": [],
-    "pendientes": []
-  },
-  {
     "id": "rep_1771166623235",
     "titulo": "Reporte de ventas - 2026-02-15",
     "fecha": "2026-02-15T14:43:43.235Z",
