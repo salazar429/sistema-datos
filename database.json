@@ -37,16 +37,6 @@
       "tienda": "Tienda General"
     }
   ],
-  "productos": [
-    {
-      "id": "p_1771164694999",
-      "nombre": "Q fue eso?",
-      "categoria": "cat_1771052463134",
-      "precio": 123,
-      "stock": 108,
-      "minStock": 5,
-      "status": "activo"
-    }
-  ],
+  "productos": [],
   "ventas": []
 }
