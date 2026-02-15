@@ -55,6 +55,15 @@
       "stock": 600,
       "minStock": 5,
       "status": "activo"
+    },
+    {
+      "id": "p_1771167198938",
+      "nombre": "Spaghetti",
+      "categoria": "cat_1771052463134",
+      "precio": 300,
+      "stock": 500,
+      "minStock": 5,
+      "status": "activo"
     }
   ],
   "ventas": []
