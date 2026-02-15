@@ -46,6 +46,15 @@
       "stock": 120,
       "minStock": 5,
       "status": "activo"
+    },
+    {
+      "id": "p_1771167170011",
+      "nombre": "Chupa chupa",
+      "categoria": "cat_1771051075095",
+      "precio": 50,
+      "stock": 600,
+      "minStock": 5,
+      "status": "activo"
     }
   ],
   "ventas": []
