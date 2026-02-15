@@ -91,5 +91,147 @@
       }
     ],
     "pendientes": []
+  },
+  {
+    "id": "rep_1771169009573",
+    "titulo": "Reporte de ventas - 2026-02-15",
+    "fecha": "2026-02-15T15:23:29.573Z",
+    "fechaReporte": "2026-02-15",
+    "vendedora": "Grisel",
+    "vendedoraId": "v_1771051018284",
+    "tienda": "Tienda General",
+    "resumen": {
+      "ventasCompletadas": 7,
+      "totalCompletado": 41374,
+      "ventasPendientes": 0,
+      "totalPendiente": 0
+    },
+    "ventas": [
+      {
+        "cliente": "Cliente General",
+        "total": 738,
+        "productos": [
+          {
+            "nombre": "Q fue eso?",
+            "cantidad": 3,
+            "precio": 123
+          },
+          {
+            "nombre": "Q pasaaaaa",
+            "cantidad": 3,
+            "precio": 123
+          }
+        ],
+        "fecha": "2026-02-15T14:18:29.184Z"
+      },
+      {
+        "cliente": "Cliente General",
+        "total": 738,
+        "productos": [
+          {
+            "nombre": "Q fue eso?",
+            "cantidad": 3,
+            "precio": 123
+          },
+          {
+            "nombre": "Q pasaaaaa",
+            "cantidad": 3,
+            "precio": 123
+          }
+        ],
+        "fecha": "2026-02-15T14:18:32.094Z"
+      },
+      {
+        "cliente": "1",
+        "total": 615,
+        "productos": [
+          {
+            "nombre": "Q pasaaaaa",
+            "cantidad": 5,
+            "precio": 123
+          }
+        ],
+        "fecha": "2026-02-15T14:27:03.473Z"
+      },
+      {
+        "cliente": "A ver",
+        "total": 2214,
+        "productos": [
+          {
+            "nombre": "Q pasaaaaa",
+            "cantidad": 6,
+            "precio": 123
+          },
+          {
+            "nombre": "Q fue eso?",
+            "cantidad": 12,
+            "precio": 123
+          }
+        ],
+        "fecha": "2026-02-15T14:30:20.149Z"
+      },
+      {
+        "cliente": "Cliente General",
+        "total": 369,
+        "productos": [
+          {
+            "nombre": "Q pasaaaaa",
+            "cantidad": 3,
+            "precio": 123
+          }
+        ],
+        "fecha": "2026-02-15T14:43:27.338Z"
+      },
+      {
+        "cliente": "Prueba de pendientes",
+        "total": 3050,
+        "productos": [
+          {
+            "nombre": "Carne cerdo",
+            "cantidad": 4,
+            "precio": 500
+          },
+          {
+            "nombre": "Chupa chupa",
+            "cantidad": 3,
+            "precio": 50
+          },
+          {
+            "nombre": "Spaghetti",
+            "cantidad": 3,
+            "precio": 300
+          }
+        ],
+        "fecha": "2026-02-15T15:00:08.567Z"
+      },
+      {
+        "cliente": "Mipime A",
+        "total": 33650,
+        "productos": [
+          {
+            "nombre": "Arroz importado",
+            "cantidad": 18,
+            "precio": 300
+          },
+          {
+            "nombre": "Spaghetti",
+            "cantidad": 5,
+            "precio": 300
+          },
+          {
+            "nombre": "Chupa chupa",
+            "cantidad": 25,
+            "precio": 50
+          },
+          {
+            "nombre": "Carne cerdo",
+            "cantidad": 51,
+            "precio": 500
+          }
+        ],
+        "fecha": "2026-02-15T15:22:05.078Z"
+      }
+    ],
+    "pendientes": []
   }
 ]
