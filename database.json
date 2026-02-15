@@ -70,6 +70,15 @@
       "stock": 497,
       "minStock": 5,
       "status": "activo"
+    },
+    {
+      "id": "p_1771168829537",
+      "nombre": "Arroz importado",
+      "categoria": "cat_1771168770435",
+      "precio": 300,
+      "stock": 500,
+      "minStock": 5,
+      "status": "activo"
     }
   ],
   "ventas": []
