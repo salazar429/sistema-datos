@@ -17,6 +17,12 @@
       "nombre": "Pastas",
       "descripcion": "",
       "activa": true
+    },
+    {
+      "id": "cat_1771168770435",
+      "nombre": "Alimentos",
+      "descripcion": "",
+      "activa": true
     }
   ],
   "vendedoras": [
