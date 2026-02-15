@@ -85,7 +85,7 @@
       "nombre": "Funciona??",
       "categoria": "cat_1771052463134",
       "precio": 123,
-      "stock": 2,
+      "stock": 0,
       "minStock": 5,
       "status": "bajo stock"
     }
