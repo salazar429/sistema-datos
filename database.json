@@ -23,6 +23,12 @@
       "nombre": "Alimentos",
       "descripcion": "",
       "activa": true
+    },
+    {
+      "id": "cat_1773069255412",
+      "nombre": "Medicamentos",
+      "descripcion": "Pastillas y otros",
+      "activa": true
     }
   ],
   "vendedoras": [
