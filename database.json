@@ -85,6 +85,15 @@
       "stock": 476,
       "minStock": 5,
       "status": "activo"
+    },
+    {
+      "id": "p_1773148004095",
+      "nombre": "Nuevo productos",
+      "categoria": "cat_1773069255412",
+      "precio": 500,
+      "stock": 500,
+      "minStock": 5,
+      "status": "activo"
     }
   ],
   "ventas": []
